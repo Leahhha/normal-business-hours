@@ -40,9 +40,10 @@ function workingHours(req, res, next) {
   } else {
     
     // otherwise, return the denial
-    console.log('Closed 🔒');
+    console.log('Closed 🔒 -- Normal BusinessHour 9 - 17 -- Come back another time');
     req.url = 'denied.html';
     next();
 
   }
+  
 }
