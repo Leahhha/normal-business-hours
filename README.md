@@ -6,26 +6,57 @@ Starter code for a website that serves your resume only during your normal busin
 
 ## Working Process:
 
-For this assignment, I collected lots of useful references for creating cool html and css with fun animation.
+For this assignment, I aim to make a interactive fun webpage with some animations in the denied page.
 
-I set the working hours to Every 9am to 5pm.
+After looked through several examples online, I found out that using Greensock library is the best choice.
+
+I collected lots of useful references for creating cool html and css with fun animation.
+
+I set the working hours to every 9am to 5pm, because this is the best schedule for me who prefer to work during daytimes.
 
 ### Coding Part:
 
 ![Image Alt Text](./public/images/code1.png)
 
-This is my favorite coding part by add hover state to navigation
+This is my favorite coding part by add hover state to navigation.
+
+By adding this interaction makes the page more lively and fun.
 
 Also the texts pops up smoothly by utilizing the greensock external library
 
 ![Image Alt Text](./public/images/denied-page.png)
 
+After designing my denied webpage, I let the folder run through digital ocean using Droplet.
+
+It is running successfully after I download the node, npm, pm2 to the new folder.
+
+![Image Alt Text](./public/images/droplet1.png)
+
+I also get a reserved IP address 206.189.254.67:3000
+
+!! It is working :-) !!
+
+![Image Alt Text](./public/images/reservedip.png)
+
 I love the overall outcome, and I wish to add scroll function with 3-4 image background to make the page more interactive.
 
-Sadly, after several attemps I wasn't able to combine that on my page.
+### Challenges:
 
-Probably, look into the div element more, haven't figured out yet.
+There are lots of challenges, for example some details of page layout is not very ideal at the beginning.
 
+After changing the margin and padding, the webpage start to looking good.
+
+I tried to add multiple images as background to have more visual effects and compenents on a page.
+
+Sadly, after several attemps I wasn't able to combine scroll function with 3-4 images background on my page.
+
+I also get some advice from chatgpt, I should probably use div element to have multiple section and then add background to each section.
+
+I tried the piece of code that chatgpt generate, but the images are not showing up.
+
+Haven't figured out how to add several images to a page. 
+
+Hopfully, soon!!
 
 ## Credit:
 
