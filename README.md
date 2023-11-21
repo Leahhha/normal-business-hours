@@ -2,6 +2,9 @@
 *Part of an assignment for the ReCode class at NYU's IMA program, Fall 2023.*
 
 ## Project Description
+
+Reserved IP address 206.189.254.67:3000
+
 Starter code for a website that serves your resume only during your normal business hours. Otherwise, it returns a simple message explaining when potential employers can return to find the information they seek.
 
 ## Working Process:
