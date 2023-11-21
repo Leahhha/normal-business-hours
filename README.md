@@ -12,7 +12,23 @@ After looked through several examples online, I found out that using Greensock l
 
 I collected lots of useful references for creating cool html and css with fun animation.
 
-I set the working hours to every 9am to 5pm, because this is the best schedule for me who prefer to work during daytimes.
+I choose to use the default resume, because of the default one looks good to me.
+
+The great thing about this project setting is that I can create boundaries between different portion of my life.
+
+For example, Study and gaining new skills are my top priority, so I prioritize assignments over other social events.
+
+That is why I let the resume page surf on the internet 9am-5pm.
+
+- Hobbies or personal interests
+
+  Hobbies: Exploring new coffee shops, new stationary stores in the City.
+
+  Personal interests: Figure skating, painting, developing new skills - sign up for courses, doing art and design things...
+  
+- Are you a morning person?
+
+  Yes! I set the working hours to everyday 9am to 5pm, because this is the best schedule for me who prefer to work during daytimes. Ideally, having a dayoff is great.
 
 ### Coding Part:
 
@@ -57,6 +73,8 @@ I tried the piece of code that chatgpt generate, but the images are not showing 
 Haven't figured out how to add several images to a page. 
 
 Hopfully, soon!!
+
+Another thing is that I should add ./ before my css and js files. Otherwise, on the digital ocean these two files cannot get access and the page looks like with plain html.
 
 ## Credit:
 
