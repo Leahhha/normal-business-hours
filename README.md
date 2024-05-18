@@ -85,8 +85,10 @@ Another thing is that I should add ./ before my css and js files. Otherwise, on 
 
 [Helpful CodePen example 2: animation of the main page and layout](https://codepen.io/nitin-sharma0001/pen/yLZXLXO)
 
-[Helpful CodePen example 3: Text animation](https://codepen.io/StephenScaff/pen/oLBqmw)
+[Helpful CodePen example 3: Text glow animation](https://codepen.io/StephenScaff/pen/oLBqmw)
 
 [Helpful CodePen example 4: showcase purpose webpage](https://codepen.io/kayfo23/pen/EeqYJw)
 
 [Helpful CodePen example 5: scroll webpage](https://codepen.io/camilasecond/pen/jOLMJvJ)
+
+[Helpful CodePen example 5: Type in text animation](https://codepen.io/omidgharib/pen/Aqjrao)
